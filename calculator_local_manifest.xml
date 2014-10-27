@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!-- Removes -->
+  <remove-project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" remote="github" revision="cm-11.0" />
+ <!-- Adds -->
+  <project path="packages/apps/Calculator" name="westonbelk/android_packages_apps_Calculator" remote="github" revision="cm-11.0" />
+</manifest>
